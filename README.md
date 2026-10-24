@@ -6,3 +6,5 @@ AI-Assisted Systems Development
 
 A collection of projects exploring the integration, synthesis, and operationalization of optimized systems into executable logic.
 Built through iterative AI collaboration, conversational problem-solving, and deliberate refinement.
+
+justinfrenchbf@gmail.com
