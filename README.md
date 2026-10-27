@@ -4,7 +4,7 @@
 </div>
 An evolving collection of projects and reusable frameworks developed through interdisciplinary exploration, abstraction, and synthesis. Drawing from established concepts across fields, I adapt and combine their underlying principles into portable, actionable structures that can be applied beyond their original contexts.
 
-AI-assisted exploration, iterative reasoning, and experimentation accelerate this process, while the resulting knowledge remains independent, reusable, and open to further refinement.
+AI-assisted research and analysis, iterative reasoning, and experimentation accelerate this process, while the resulting knowledge remains independent, reusable, and open to further refinement.
 
 **About the banner**
 
