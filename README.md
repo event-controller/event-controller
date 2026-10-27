@@ -2,7 +2,7 @@
 <img width="1254" height="1254" alt="1000267458" src="https://github.com/user-attachments/assets/1b156258-4d67-4358-9099-df781ff0cb1e" />
 <h2>Event-Controller</h2>
 </div>
-An evolving collection of projects and reusable frameworks developed through interdisciplinary exploration, abstraction, and synthesis. Drawing from established ideas across fields, I adapt and combine their underlying principles into portable, actionable structures that can be applied beyond their original contexts.
+An evolving collection of projects and reusable frameworks developed through interdisciplinary exploration, abstraction, and synthesis. Drawing from established concepts across fields, I adapt and combine their underlying principles into portable, actionable structures that can be applied beyond their original contexts.
 
 AI-assisted exploration, iterative reasoning, and experimentation accelerate this process, while the resulting knowledge remains independent, reusable, and open to further refinement.
 
